@@ -1,0 +1,4 @@
+Bernardo Orozco|berny.orozco@gmail.com|123456789|
+Juan Perez|juan.perez@gmail.com|123456789|
+Narda Ozuna|narda.ozuna@gmail.com|123456789|
+Karla Orozco|karla.orozco@gmail.com|123456789|

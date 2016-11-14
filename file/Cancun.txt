@@ -1,0 +1,154 @@
+Cancún, Quintana Roo
+
+FOTO
+http://cancunoncologycenter.com/wp-content/uploads/2016/04/3.jpg|im1
+http://travelfree.info/wp-content/uploads/2016/01/Cancun-800x300.jpg|img2
+http://www.conciergebrazil.com.br/destino/img/cancun-page.jpg|img3
+END_FOTO
+
+HOTEL
+nombre:     Courtyard Cancun Airport
+direccion:  Blvd. Luis Donaldo Colosio, Km. 12.5, Lote 1, SMZA. 301, Cancún 77560, México
+telefono:   +52-168-855-8964 
+estrellas:  3.5
+precio:     $2,533
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-o/0d/83/f0/aa/exterior.jpg|exterior
+https://media-cdn.tripadvisor.com/media/photo-s/0d/83/f0/e0/outdoor-event-details.jpg|outdoor
+https://media-cdn.tripadvisor.com/media/photo-s/0d/83/f0/db/coffee-break.jpg|coffee
+]
+comentarios:[
+Marian P|Mi noche fue exquisita despúes de salir del jacuzzi, camas súper cómodas y el desayuno muy rico, a mi familia y a mí nos encantó!
+Juan Roberto L|Excelente servicios en todo, habitaciones limpias y con todos lo necesario. El personal muy, muy atento.
+JRaulLozano|El hotel es grande, muy bien cuidado y en general la atención es buena.
+]
+
+nombre:     Grand Fiesta Americana Coral Beach Cancun
+direccion:  Blvd Kukulcan Km 9.5 Lote 6 | Zona Hotelera, Cancún 77500, México
+telefono:   01-998-881-3200
+estrellas:  5
+precio:     $7,019
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-w/0d/0e/c5/97/pool-cascade.jpg|pool
+https://media-cdn.tripadvisor.com/media/photo-s/0d/5e/c7/4d/vina-del-mar.jpg|vina-del-mar
+https://media-cdn.tripadvisor.com/media/photo-s/0d/5e/c7/4a/presidential-suite.jpg|suite
+]
+comentarios:[
+MagdalenaCasillas|Ernesto Fuentes / Alessandrina: Quiero agradecer todas las finas atenciones recibidas por parte de su talentoso staff en Grand Fiesta Americana Coral Beach Cancun.
+CANDIDO JOSE S|La ubicación, las instalaciones, las playas y las albercas, la amabilidad del personal, el afán de hacer placentera la estancia de todos y cada uno de los empleados del hotel siempre con una sonrisa , los detalles, etc. son absolutamente de excelencia
+jonathangonzalezcar|Ernesto Fuentes / Alessandrina: Quiero agradecer todas las finas atenciones recibidas por parte de su talentoso staff en Grand Fiesta Americana Coral Beach Cancun.
+]
+
+nombre:     Oh! by OASIS
+direccion:  Av. Tulum Supermanzana 4 Manzana 19 Lote 1 and 3 Esquina Brisa, Cancún 77511, México
+telefono:   +52-658-489-8496
+estrellas:  3.5
+precio:     $1,856
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-s/0c/44/25/26/pool.jpg|pool
+https://media-cdn.tripadvisor.com/media/photo-s/0c/44/25/24/pool.jpg|pool
+https://media-cdn.tripadvisor.com/media/photo-s/0c/44/24/cc/the-white-terrace.jpg|terrace
+]
+comentarios:[
+me8av|Hace un par de semanas estuve en Cancún y decidí hospedarme aquí ,fue la mejor opción ya que esta super bien ubicado, céntrico, con acceso al centro de Cancún y a la zona hotelera y playas, me encanto 
+Roberto O|Nuestra estancia y el servicio fueron muy buenos , y las instalaciones muy modernas , se ven nuevas o recien remodeladas no lo sé , pero en verdad nos gusto bastante
+Wilbert M|El lugar está muy bonito, me gustó el ambiente y la atención del personal es muy cálida y agradable.
+]
+END_HOTEL
+
+VUELO
+nombre:             Volaris
+num_de_vuelo:       190
+hora_salida:        7:07
+hora_llegada:       10:33
+lugar_de_salida:    MTY
+lugar_de_llegada:   CUN
+precio:             $7,018
+
+nombre:             Aeromexico
+num_de_vuelo:       2366
+hora_salida:        10:40
+hora_llegada:       13:55
+lugar_de_salida:    MTY
+lugar_de_llegada:   CUN
+precio:             $7,795
+
+nombre:             Interjet
+num_de_vuelo:       2119
+hora_salida:        17:30
+hora_llegada:       19:00
+lugar_de_salida:    MTY
+lugar_de_llegada:   CUN
+precio:             $10,323
+END_VUELO
+
+RESTAURANTE
+nombre:         THE WHITE BOX
+descripcion:    Mariscos
+lugar:          Hotel Grand Oasis Cancun
+estrellas:      4.5
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-s/06/72/0f/1c/the-white-box.jpg|the-white-box
+https://media-cdn.tripadvisor.com/media/photo-s/0d/78/a1/3b/amazing-food.jpg|food
+]
+comentarios:[
+Emmanuelw8700|Si usted se hospeda en el hotel Grand Oasis Palm tendrá todas las amenidades de un hotel de 5 estrellas, encontrará habitaciónes lujosas con un alto nivel.de comodidad, actividades al aire libre, albercas y playa privada, bares, restaurante y barras de snacks
+yomaro629|Sitio Agradable, buena vista, muy iluminado, comida un poco sosa, sin grandes platillos, los regulares de una cocina internacional.
+]
+
+nombre:         MB
+descripcion:    Estadounidense, Mariscos, Opciones sin gluten
+lugar:          Boulevard Kukulcan Km. 12.5 at Live Aqua
+estrellas:      4.5
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-s/02/eb/b9/65/mb.jpg|MB
+https://media-cdn.tripadvisor.com/media/photo-s/0d/50/f3/b4/photo5jpg.jpg|menu
+]
+comentarios:[
+angel2227|Fue una cena verdaderamente inolvidable, el pianista fabuloso, el aprendiz de tenor (mesero) ambos se lucieron y los los mejillones más ricos de can cun. felicitaciones para el Cheff.
+zoytsa k|Cocina alto nivel! Todo está riquísimo y el servico excelente. Me encantó la langosta, la lengua de res y la crema poblama servida en pan!
+]
+
+nombre:         Restaurante Benazuza
+descripcion:    Desayuno, Almuerzo, Cena, Abierto hasta tarde
+lugar:          Km 19,5 Blvd Kukulcan, Cancún, México
+estrellas:      5
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-s/07/4d/10/88/restaurante-benazuza.jpg|restaurante
+https://media-cdn.tripadvisor.com/media/photo-s/0d/8c/76/51/restaurante-benazuza.jpg|benazuza
+]
+comentarios:[
+Javier M|Había esperado mucho tiempo para ir a conocer este restaurante ya que el menú lo hizo Rafael zafra y su mentor un tiempo fue Ferrar Adrià.
+Paty S|Toda una experiencia Un Universo de sabores combinados en un lugar espectacular y con una atención de primera
+]
+END_RESTAURANTE
+
+ATRACCION
+nombre:         Cancun Sailing Catamarans
+descripcion:    No se pierda la oportunidad de pasar un día maravilloso de navegación por el mar Caribe e Isla Mujeres en nuestros catamaranes. Disfrute del sol y la brisa marina mientras navega al arrecife donde tendrá la oportunidad de hacer buceo de superficie y admirar cientos de peces de colores. Más tarde, le llevaremos a nuestro club de playa privado donde tendrá tiempo para disfrutar de un almuerzo bufé y relajarse, un poco de tiempo libre en el centro de Isla Mujeres y finalmente, navegación de vuelta a Cancún.
+lugar:          Blvrd Kukulcan KM 3.2 | Marina Chac Chi, Cancún 77500, México
+estrellas:      4
+precio:         $1,522
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-s/05/41/40/26/cancun-sailing-catamarans.jpg|bote
+https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/25004/SITours/tour-en-catamar-n-en-isla-mujeres-in-canc-n-268338.jpg|botes
+]
+comentarios:[
+Julian A|Disfrutar de un lindo mar caribe y hacer snorkel donde ves un museo debajo del agua es impresionante.
+Belén B|Estuve en Isla Mujeres hace una semana y la verdad que la pasé super bien! El guía, Tony, muy copado y la tripulación del "Lady Caroline" en general muy atenta con todos! Música y bebida durante todo el trayecto. El snorkel muy bueno, se ven peces, un museo subacuático. Yo lo recomeindo 100%!!!!!!
+]
+
+nombre:         Dancer Cruise
+descripcion:    pasa un dia en el mar abierto en el bote que se renta para 12 personas.
+lugar:          Blvd Kukulkan KM 4.5 | Zona Hotelera, Cancún 77500, México
+estrellas:      5
+precio:         $1,113
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-s/02/4b/5c/b2/dancer.jpg|bote
+https://media-cdn.tripadvisor.com/media/photo-s/01/49/b5/eb/caption.jpg|bote
+]
+comentarios:[
+adozal7|De los mejores tours de mi vida! Los anfitriones son de otro nivel, no se diga el buen Ricky! Snorkel en mar abierto y el trampolin al Mar...fascinante! Los concursos divertidisimos, gane una botella de Tekila tarareando La Cucaracha hincado con un trago de tequila en la boca.
+Guss1964|Excelente opción. El mejor de los servicios y opciones. Un tours para repetir. Bebidas, comida, snorkel, música, baile. Un excelente ambiente de diversión. Recomendado 100% a personas que les guste divertirse.
+]
+END_ATRACCION

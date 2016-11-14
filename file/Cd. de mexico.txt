@@ -1,0 +1,155 @@
+Ciudad de México, México
+
+FOTO
+http://conacytprensa.mx/images/800x300_5_3_Espacios_Publicos.jpg|im1
+http://viajandoya.com/wp-content/uploads/2016/01/CiudaddeMexicoViajandoya.jpg|img2
+https://www.uv.mx/universo/388/campus/images/coatza-2.gif|img3
+END_FOTO
+
+HOTEL
+nombre:     Fiesta Inn Aeropuerto Ciudad de Mexico
+direccion:  Boulevard Puerto Aéreo 502 | Colonia Moctezuma, Ciudad de México 15530, México
+telefono:   01 55 5133 6600
+estrellas:  3.5
+precio:     $2,186
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-w/09/ab/4c/b3/outdoor-pool.jpg|pool
+https://media-cdn.tripadvisor.com/media/photo-s/07/39/1e/48/fiesta-inn-aeropuerto.jpg|entrance
+https://media-cdn.tripadvisor.com/media/photo-s/07/39/21/45/fiesta-inn-aeropuerto.jpg|table
+]
+comentarios:[
+ANGIE MARELYN D|Me gustaron las instalaciones muy limpias y las habitaciones muy amplias, el personal es muy amable, tuve un problema y un recepcionista me ayudo en todo lo que pudo y eso se agradece y la comida muy bien
+CaritoPi|Muy buen hotel para pasar la noche si tenes que tomar el avión temprano y considerando que la Ciudad de México tiene un trafico infernal. Pasamos un día y una noche en la Ciudad y fue una buena elección.
+LIssette P|Hotel practico por estar cerca del aeropuerto, no mas de 30 min en caso de mucha circulacion, si no 15 minutos, navette regular c/30 min. Personal agradable y receptivo.
+]
+
+nombre:     Hotel Plaza Garibaldi
+direccion:  Honduras No. 11, Col. Centro, México D.F., C.P. 06010 | (Entrance to parking for Allende No.52)
+telefono:   01-998-881-3200
+estrellas:  4
+precio:     $3,896
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-o/07/7e/c8/f0/exterior.jpg|exterior
+https://media-cdn.tripadvisor.com/media/photo-s/05/e4/81/84/hotel-plaza-garibaldi.jpg|bed
+https://media-cdn.tripadvisor.com/media/photo-s/05/e4/81/71/hotel-plaza-garibaldi.jpg|bed
+]
+comentarios:[
+Margaretete|Hotel muy limpio agradable huele muy bonito. El personal muy amable.esta en la plaza garibaldi podria pensarse que es inseguro pero todo lo contrario hay mucha seguridad.el desayuno esta incluido no tiene variedad y tampoco buen sabor.
+Cchzlc|La mejor atención,las habitaciones perfectas sobretodo las que dan al balcón,el restaurante muy bien pero lo mejor es la atención de la recepción.La ubicación excelente,nos quedamos 3 días y volvemos cada vez que vamos a la CDMX.
+Nicole C|queda muy lejos del centro y lugares turisticos , de noche da un poco de susto con la cantidad de gente en la plaza , los alrededores son peligrosos, Las habitaciones estan bien, el servicio al cliente excelente los recepcionistas te solucionan rapidamente, el desayuno no es muy rico y poco variado.
+]
+
+nombre:     Krystal Grand Reforma Uno Mexico City
+direccion:  Paseo de la Reforma No. 1 | Col. Tabacalera, Ciudad de México 06030, México
+telefono:   01 55 5350 9646
+estrellas:  4
+precio:     $4,004
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-s/0c/44/25/26/pool.jpg|pool
+https://media-cdn.tripadvisor.com/media/photo-s/0c/44/25/24/pool.jpg|pool
+https://media-cdn.tripadvisor.com/media/photo-s/0c/44/24/cc/the-white-terrace.jpg|terrace
+]
+comentarios:[
+blanbl|Es un hotel muy bien ubicado, en el paseo de la reforma. La habitación es grande y tranquila, no se oyen ruidos aunque está en una calle principal. Las camas son comodísimas. El desayuno, variado y buenísimo. Muy recomendable.
+Beatriz L|El hotel es excelente y está muy bien ubicado. La habitación muy limpia y confortable. El personal sumamente cordial. El desayuno es muy bueno.
+Esmeralda A|Atención de calidad y con calidez checaron el aire acondicionado por que se sentía fría la habitación, llevábamos un bebe, inmediatamente muy atento y amable el personal, habitación limpia, la ubicación del hotel estratégica cerca de los lugares turísticos y emblemáticos de la ciudad
+]
+END_HOTEL
+
+VUELO
+nombre:             Volaris
+num_de_vuelo:       187
+hora_salida:        7:07
+hora_llegada:       10:33
+lugar_de_salida:    MTY
+lugar_de_llegada:   MEX
+precio:             $1,592
+
+nombre:             Aeromexico
+num_de_vuelo:       915
+hora_salida:        10:40
+hora_llegada:       13:55
+lugar_de_salida:    MTY
+lugar_de_llegada:   MEX
+precio:             $3,181
+
+nombre:             Interjet
+num_de_vuelo:       2135
+hora_salida:        17:30
+hora_llegada:       19:00
+lugar_de_salida:    MTY
+lugar_de_llegada:   MEX
+precio:             $2,348
+END_VUELO
+
+RESTAURANTE
+nombre:         Restaurante Antiguo San Angel Inn
+descripcion:    Mexicana, Latina
+lugar:          Calle Diego Rivera No. 50, Ciudad de México
+estrellas:      4.5
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-s/01/37/53/32/restaurante-antiguo-san.jpg|restaurante
+https://media-cdn.tripadvisor.com/media/photo-s/0d/98/27/00/dia-de-los-muertos-decorations.jpg|decorations
+]
+comentarios:[
+Can D|Muy buen servicio, solo eso.
+Javier S|Este restaurante tradicional ya de la Ciudad de México es siempre una garantía tanto en sus platillos como en el servicio que te ofrecen. La zona en la que se ubica es también una delicia.
+]
+
+nombre:         The Capital Grille
+descripcion:    Estadounidense
+lugar:          Avenida Paseo de la Reforma Number 250
+estrellas:      4.5
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-s/04/24/16/99/the-capital-grille.jpg|capital
+https://media-cdn.tripadvisor.com/media/photo-s/0d/10/dc/af/photo0jpg.jpg|barra
+]
+comentarios:[
+juan p|Es un lindo y acogedor lugar en la reforma. Con una muy buena seleccion de vinos y la carne y postes excelentes.
+amunoz_mx|Sin duda uno de los mejores lugares visitado. Excelente comida, servicio, comida, ambiente. Saludos!
+]
+
+nombre:         Sir Winston Churchill's
+descripcion:    Europea, Británica
+lugar:          Blvd. Manuel Avila Camacho 67, Polanco
+estrellas:      4.5
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-s/0d/7b/26/3b/20161031-214025-largejpg.jpg|comida
+https://media-cdn.tripadvisor.com/media/photo-s/0d/88/07/6c/img-20161104-154128-largejpg.jpg|lugar
+]
+comentarios:[
+ChefManu2013|Excelente lugar, acogedor, elegante, magnífica atención inigualable cocina, un lugar caro, pero vale la pena visitarlo, uno de los mejores restaurantes de la Ciudad de México
+luisbernardoc771|Solo he estado una vez aquí, pero el menú es muy bueno y variado y la calidad y sabor de los alimentos excelente. De precio alto, pero gran valor por lo que se paga. Para ocasiones especiales, en mi caso, un aniversario de bodas.
+]
+END_RESTAURANTE
+
+ATRACCION
+nombre:         Puebla y Cholula
+descripcion:    Viva la experiencia de la riqueza cultural y la historia de México en esta excursión íntima, personal y exclusiva de 10 horas. Vea la pirámide más grande del mundo y sus 365 iglesias en la zona arqueológica de Cholula. Continúe hasta Puebla, Patrimonio de la Humanidad de la Unesco, y vea la majestuosa catedral en la Plaza Mayor. Descubra la Capilla del Rosario, el Convento de Santa Mónica y las fábricas de cerámica de Onyx y Talavera.
+lugar:          Puebla
+estrellas:      4
+precio:         $1,205
+fotos:[
+https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/5232/SITours/excursi-n-de-un-d-a-a-puebla-y-cholula-desde-ciudad-de-m-xico-in-mexico-city-44985.jpg|iglesia
+https://cache-graphicslib.viator.com/graphicslib/media/e1/cholula-photo_6525665-622x408.jpg|iglesia
+]
+comentarios:[
+ANA CRISTINA M|Nuestro guía Humberto, es un gran conocedor de la historia mexicana. Recomendamos ampliamente este tour. Pasamos un día muy agradable tanto en Cholula como en Puebla. El almuerzo delicioso!
+JULIO S|Muy buena visita !!! El guía Miguel un genio: hizo divertido el viaje ya de por si largo, contando anécdotas y haciendo amena la excursión. Recomendable totalmente.
+Ramon C|Un paseo agradable, en especial Puebla con su catedral, la calle de Los Artistas y los talleres de artesanía.
+]
+
+nombre:         irámides de Teotihuacan
+descripcion:    Visite las pirámides de Teotihuacan, la Ciudad de los Dioses, en esta excursión arqueológica desde Ciudad de México con un guía especializado. Llegue pronto a este lugar declarado Patrimonio de la Humanidad por la UNESCO y evite las multitudes de turistas, lo que le permitirá disfrutar de las plazas, los murales y la majestuosa atmósfera en la tranquilidad de la mañana. Visite los monumentos famosos, por ejemplo suba a la Pirámide del Sol y la Pirámide de la Luna. Su excursión de un día en un vehículo con aire acondicionado incluye una parada en una fábrica obsidiana, donde podrá degustar una gran variedad de licores.
+lugar:          Piramides ciudad de mexico
+estrellas:      4.5
+precio:         $1,146
+fotos:[
+https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/5885/SITours/excursi-n-a-las-pir-mides-de-teotihuacan-con-salida-a-primera-hora-de-in-mexico-city-129865.jpg|bote
+https://cache-graphicslib.viator.com/graphicslib/media/ec/from-the-moon-toward-the-sun-photo_20290540-622x408.jpg|bote
+]
+comentarios:[
+Lauren L|Recomendadísimo!!! muy puntuales llegamos a primera hora y pudimos recorrer el sitio sin interrupciones y tomar fotografías sin personas alrededor, excelente narración de nuestro guía Gerson quien por cierto tuvo siempre la mejor energía y actitud, cabe resaltar su amplio conocimiento. El almuerzo delicioso y todos con la mayor amabilidad. Sin duda lo recomendare ampliamente.
+Fernanda|Fue muy conveniente llegar a las pirámides temprano y Gerson nos trato a todos muy bien! Nos divertimos y fue muy interesante también el tour guiado, muchas gracias!
+]
+END_ATRACCION
