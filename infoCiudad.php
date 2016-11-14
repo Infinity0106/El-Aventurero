@@ -3,7 +3,7 @@
 require_once('clases/Ciudad.php');
 session_start();
 $ciudad = $_SESSION['ciudad'];
-echo '<pre>'; print_r($ciudad); echo '</pre>';
+//echo '<pre>'; print_r($ciudad); echo '</pre>';
 ?>
 <!DOCTYPE html>
 <html lang="en">

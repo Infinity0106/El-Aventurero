@@ -1,5 +1,4 @@
 <?php
-ini_set("allow_url_fopen", true);
 session_start();
 require_once('clases/Ciudad.php');
 $nombres=array(
@@ -11,7 +10,7 @@ $nombres=array(
 if(!file_exists("./file/".$nombres[$_POST['ciudad']].".txt")){
     header('Location: index.php');
 }
-echo file_get_contents("./file/".$nombres[$_POST['ciudad']].".txt");
+
 $txtFile = fopen("./file/".$nombres[$_POST['ciudad']].".txt", "r");
 $ciudad = new Ciudad();
 $objeto = array();
@@ -173,11 +172,11 @@ while(!feof($txtFile)){
 }
 fclose($txtFile);
 //echo $ciudad->getNombre();
-echo '<pre>'; print_r($ciudad); echo '</pre>';
+//echo '<pre>'; print_r($ciudad); echo '</pre>';
 $_SESSION['ciudad']=$ciudad;
 unset($ciudad);
 unset($objeto);
 unset($fotos);
 unset($comentarios);
-//header('Location: infoCiudad.php');
+header('Location: infoCiudad.php');
 ?>
