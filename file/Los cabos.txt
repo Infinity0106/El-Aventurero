@@ -1,0 +1,165 @@
+Los Cabos, Baja California Sur
+
+FOTO
+http://agencia.travelclub.cl/sites/default/files/compartida/img_fondo/452125851.jpglos_cabos1.jpeg|img1
+http://bloggfiler.no/ingridskudal.blogg.no/images/779832_hotel_el_ganzo_los_cabos_mexico-906288-8-1457454122156.jpg|img2
+http://formato7.com/wp-content/uploads/2016/09/turismo.jpg|img3
+END_FOTO
+
+HOTEL
+nombre:     Las Ventanas al Paraiso, A Rosewood Resort
+direccion:  Ctra Transpeninsular Km.19.5, San José Del Cabo 23400, México
+telefono:   011 52 624 144 2800
+estrellas:  5
+precio:     USD 735
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-o/05/ad/9b/2b/pool-view.jpg|pool
+https://media-cdn.tripadvisor.com/media/photo-s/05/be/1d/67/beach-cabana.jpg|entrance
+https://media-cdn.tripadvisor.com/media/photo-s/05/be/1d/60/beach-cabana.jpg|table
+]
+comentarios:[
+Gustavo G|una sorpresa desagradable: Yo aún ni he llegado en el hotel y ya me cobraron en la tarjeta de crédito, 3 días después de la reservación. Diferente de otros hoteles como Saint Regis, Hyatt o 4 Seasons que esperan por el check in.
+edgarlicea|Hermoso hotel, servicio impecable, atención en los detalles, sorprendentes amenidades, exquisita comida. El mejor hotel de ultralujo en Los Cabos!!! Fue una experiencia inolvidable y con mucho gusto regresamos y lo recomendamos!!
+Andrea P|Por algo ganó el mejor resort del mundo. Las habitaciones están hermosas pero lo más sorprendente es la calidad del servicio. Mi esposo tuvo una cata de tequila de la cual no deja de hablar. Pidan una habitación con vista al mar, vale la pena. Realmente es único, no se lo pueden perder.
+]
+
+nombre:     Esperanza - An Auberge Resort
+direccion:  Honduras No. 11, Col. Centro, México D.F., C.P. 06010 | (Entrance to parking for Allende No.52)
+telefono:   +1 877-792-2982
+estrellas:  5
+precio:     USD 600
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-o/0c/ae/0f/49/esperanza-an-auberge.jpg|exterior
+https://media-cdn.tripadvisor.com/media/photo-s/0c/ae/0f/4e/esperanza-an-auberge.jpg|bath
+https://media-cdn.tripadvisor.com/media/photo-s/0c/ae/0f/4b/esperanza-an-auberge.jpg|pool
+]
+comentarios:[
+Yaneliag|Mi estancia en Esperanza fue espectacular, se nota la paz desde la entrada al ver una fuente con colas de ballena, al llegar al lobby, recorrer los pasillos limpios hermosos... la vista exquisita, la villa en la que me hospede, grandiosa, con una alberca pequeña incluida, la comida muy rica y variada en sus distintos lugares de consumo
+Manuel C|Combinación de hotel, villas y apartamentos de lujo. Cuenta con 8 piscinas y 2 playitas, donde suele estar prohibido bañarse por las condiciones del mar. Varios restaurantes muy caros y todos los gastos en US dólares. Excelentes habitaciones con jacuzzi en la terraza y excelentes servicios y atenciones
+Gabriela B|Pasamos ahi una noche aprovechando la promocion para locales festejando nuestro aniversario, desde el momento en que llegamos el proceso de check in con Mario, la cena atendidos por Carlos y todos los servicios nos hicieron sentir bienvenidos y muy especiales, las amenidades le dan un plus al ya excelente lugar y servicio.
+]
+
+nombre:     Casa Bella Boutique Hotel
+direccion:  Hidaldo #10, Colonia Centro | In Front of Plaza Amelia Wilkes, Cabo San Lucas 23450, México
+telefono:   011 52 33 5350 1180
+estrellas:  5
+precio:     USD 160
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-o/07/5a/35/b9/front-cover.jpg|pool
+https://media-cdn.tripadvisor.com/media/photo-s/07/5c/9d/30/front-cover.jpg|pool
+https://media-cdn.tripadvisor.com/media/photo-s/07/55/ee/92/pool.jpg|terrace
+]
+comentarios:[
+edwinv574|Fue extraordinario el servicio, en verdad lo recomendaría ampliamente porque es un lugar donde uno se puede sentir como en casa. La atención del personal es muy amable y cordial. El internet es de amplia velocidad
+arantza o|El hotel esta ubicado en un sitio en el que tienes todo a mano . Los dueños son muy amables y están pendientes de todo lo que puedas necesitar. La habitación es bonita y limpia y el desayuno excepcional.
+Rodrigo V|Este hotel nos regaló una estadía inigualable en nuestras vacaciones. Es realmente encantador, su ubicación es ideal para no utilizar ningún medio de transporte, ya que llegas a cualquier lado de Cabo San Lucas caminando. La atención para el cliente es muy cálida, te hacen sentir como en casa.
+]
+END_HOTEL
+
+VUELO
+nombre:             Volaris
+num_de_vuelo:       198
+hora_salida:        7:18
+hora_llegada:       8:30
+lugar_de_salida:    MTY
+lugar_de_llegada:   SJD
+precio:             USD 86
+
+nombre:             Aeromexico
+num_de_vuelo:       907
+hora_salida:        10:40
+hora_llegada:       13:55
+lugar_de_salida:    MTY
+lugar_de_llegada:   SJD
+precio:             USD 309
+
+nombre:             Interjet
+num_de_vuelo:       230
+hora_salida:        17:30
+hora_llegada:       19:00
+lugar_de_salida:    MTY
+lugar_de_llegada:   SJD
+precio:             USD 290
+END_VUELO
+
+RESTAURANTE
+nombre:         El Farallon
+descripcion:    Mariscos, sopas
+lugar:          Calle Camino Del Mar #1 | The Resort at Pedregal
+estrellas:      4.5
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-s/02/67/42/8e/farallon-terrace.jpg|restaurante
+https://media-cdn.tripadvisor.com/media/photo-s/0d/58/51/d4/before-the-sun-set.jpg|decorations
+]
+comentarios:[
+Edmee F|Una excelente atención para un aniversario, muy tranquilo y con una vista hermosa del mar, en los atardeceres
+Jackycid|Fuimos al restaurant nuestro último día en Cabo, reserva 8.30 la verdad es que fueron muy puntuales, lo malo que nos dejaron en una mesa muy al final, no estaba mal pero ese espacio principalmente tenia muy poco luz. En general es un lugar muy oscuro, entiendo que lo quieren hacer romántico , pero esta demasiado en penumbras. 
+]
+
+nombre:         Restaurante Templo
+descripcion:    Mexicana, Asiática, Parrilla, Opciones sin gluten
+lugar:          Miguel Hidalgo S/N Entre Alvaro Obregon y 12 de Octu
+estrellas:      4.5
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-s/0c/47/8c/ef/la-bestia.jpg|capital
+https://media-cdn.tripadvisor.com/media/photo-s/0d/9b/88/97/jicama-taco-tuna-habanero.jpg|barra
+]
+comentarios:[
+Lois Jamir G|3 ocasiones e asistido a este lugar y siempre cuentan con un servicio d calidad , y una comida totalmente deliciosa , el concepto lo tienen muy bien definido , sin duda regresaremos pronto.
+jesusmemo|Estuvimos visitando el restaurante para una comida con varios compañeros más, cada uno pidió cosas diferentes para degustar los platillos, yo en lo personal probé de entrada un sashimi de salmón la cual no fue lo que esperaba el producto si era muy fresco pero siento que faltaba algo de sabor
+]
+
+nombre:         La Roca
+descripcion:    Mexicana, Mariscos, Internacional, Opciones sin gluten
+lugar:          Av. Solmar # 1 A | Grand Solmar Land's End, Cabo
+estrellas:      4.5
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-s/0a/e7/13/46/la-roca-restaurant-internation.jpg|comida
+https://media-cdn.tripadvisor.com/media/photo-s/0d/88/3b/ac/photo0jpg.jpg|lugar
+]
+comentarios:[
+Miguel C|Uno de los mejores alimentos que he probado a sido en El restaurante La Roca, felicidades por la excelente cocina, asistimos el día de ayer a cenar (3 noviembre 2016).
+Andrea B|Mi primera visita a Cabo, buscaba un lugar para celebrar mi cumpleaños junto con mi hijo, encontré La Roca por este medio, reserve y definitivamente cumplió con mis expectativas, un lugar con una vista hermosa, comida deliciosa, un ambiente agradable y excelente atención!! Sin duda lo recomiendo.
+]
+END_RESTAURANTE
+
+ATRACCION
+nombre:         Paseo en barco
+descripcion:    Navegue hacia la puesta del sol a lo largo de la costa de Cabo y disfrute de un servicio de cinco estrellas a bordo de un velero de lujo. Este romántico crucero para ver la puesta del sol en la bahía del Cabo San Lucas incluye bebidas ilimitadas de la barra libre acompañada de un delicioso menú de aperitivos. Navegue junto a la Playa del Amor y las famosas formaciones rocosas de Los Arcos, y contemple la hermosa puesta del sol reflejada en las aguas cristalinas. Esta excursión para grupos pequeños queda limitada a 20 personas, lo que garantiza la atención personalizada de la tripulación profesional.
+lugar:          Los cabos
+estrellas:      4.5
+precio:         USD 85
+fotos:[
+https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/3714/SITours/paseo-de-lujo-en-barco-de-vela-al-atardecer-en-los-cabos-in-los-cabos-180754.jpg|iglesia
+https://cache-graphicslib.viator.com/graphicslib/media/07/the-azamara-quest-anchored-at-cabo-san-lucas-photo_8270087-622x408.jpg|iglesia
+https://cache-graphicslib.viator.com/graphicslib/media/07/great-sunset-photo_15669767-622x408.jpg|el arco
+]
+comentarios:[
+Gilberto R|Fue una experiencia increíble 100% recomendable, la comida!el servicio y el trabajo del guía merecen las 5 estrellas
+]
+
+nombre:         Safari en camello
+descripcion:    Dé un paseo en camello por la playa y descubra la hermosa costa de la península de Baja California en este recorrido por la mañana o por la tarde desde Los Cabos. Con un guía profesional, descubra la fauna y la flora de México en un recorrido fuera de carretera y un paseo a pie guiado por la naturaleza, y pruebe la cocina local con un almuerzo tradicional con vistas al océano. Para completar la experiencia, habrá una degustación de tequila y una clase de preparación de tortillas.
+lugar:          Baja california
+estrellas:      4.5
+precio:         USD 109
+fotos:[
+https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/3714/SITours/safari-en-camello-y-excursi-n-en-rancho-de-baja-desde-los-cabos-in-los-cabos-120358.jpg|bote
+https://cache-graphicslib.viator.com/graphicslib/media/22/camel-caravan-photo_15409442-622x408.jpg|bote
+]
+comentarios:[
+]
+
+nombre:         avistamiento de ballenas
+descripcion:    Aviste ballenas grises y disfrute de un desayuno en este crucero de 2 horas de avistamiento de ballenas desde Cabo San Lucas. Pase junto al espectacular Arco de roca, leones marinos y Lover's Beach en la Bahía de Cabo San Lucas, y esté alerta para ver delfines, mantarrayas y gigantescas ballenas grises en el Mar de Cortés. Observe hechizado cómo estos majestuosos mamíferos marinos resoplan, salpican, bucean y surgen del mar delante de usted y aprenda todo lo que hay que saber sobre ellos con los comentarios detallados en directo de un biólogo marino. Se incluye un delicioso desayuno mexicano y mimosas, café y otras bebidas en el bar a bordo.
+lugar:          Los cabos
+estrellas:      4.5
+precio:         USD 60
+fotos:[
+https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/6657/SITours/crucero-de-avistamiento-de-ballenas-en-los-cabos-con-desayuno-incluido-in-los-cabos-165321.jpg|iglesia
+https://cache-graphicslib.viator.com/graphicslib/media/8f/a-whale-of-a-time-photo_16696719-622x408.jpg|iglesia
+https://cache-graphicslib.viator.com/graphicslib/media/99/doesnt-get-much-better-photo_16696729-622x408.jpg|el arco
+]
+comentarios:[
+]
+END_ATRACCION

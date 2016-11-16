@@ -1,0 +1,141 @@
+Puerto Vallarta, Jalisco
+
+FOTO
+https://media-cdn.tripadvisor.com/media/photo-s/03/9b/30/14/puerto-vallarta.jpg|im1
+http://travelfree.info/wp-content/uploads/2016/05/Puerto-Vallarta-_-Mexico_-6621525_xxl-800x300.jpg|img2
+http://img.clasf.mx/2015/12/16/Promocin-Especial-Navidad-Master-Suite-Mayan-Palace-20151216185437.jpg|img3
+END_FOTO
+
+HOTEL
+nombre:     Los Arcos Suites
+direccion:  Manuel M. Dieguez No 164 | Col. Emiliano Zapata, Puerto Vallarta 48380, México
+telefono:   01 81 4160 5490
+estrellas:  4
+precio:     $2,151
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-o/0b/09/0e/91/alberca-arcos-suites.jpg|exterior
+https://media-cdn.tripadvisor.com/media/photo-s/0a/49/ba/46/los-arcos-suites-jr-room.jpg|outdoor
+https://media-cdn.tripadvisor.com/media/photo-s/0a/49/ba/44/los-arcos-suites-balcony.jpg|coffee
+]
+comentarios:[
+carmonaeduardof|repito lo anterior, Si pagas un paquete todo incluido, entonces la atención brindada no debe estar condicionada a La propina. Algunos del staff se esconden cuando quieres solicitar algo, ejemplo la sra. Que está en la barra de snack y la persona que reparte toallas y camastros. 
+armando_ruiz_1227|Fuimos a este hotel a pasar un fin de semana, puesto que se casaba una prima. Desconocía que eran dos hoteles y el hecho de que el hotel en donde nos ibamos a hospedar not enía playa, nos desanimó. 
+MAYRABEATRIZ|La verdad desde que llegamos hasta el día que nos retiramos, nos trataron muy bien, la ubicación es excelente, el hotel esta muy bien y en muy buen estado, todo el personal se porto muy bien la verdad si regresaria al mismo hotel y lo recomiendo.
+]
+
+nombre:     Sheraton Buganvilias Resort & Convention Center
+direccion:  Boulevard Medina Ascencio 999 | Zona Hotelera las Glorias, Puerto Vallarta 48330, México
+telefono:   +52 32 226-0404
+estrellas:  4
+precio:     $2,641
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-fw/05/8d/0e/25/pool--v1713054-27.jpg|pool
+https://media-cdn.tripadvisor.com/media/photo-s/0a/8e/b7/d3/sunset-exterior.jpg|vina-del-mar
+https://media-cdn.tripadvisor.com/media/photo-o/0a/89/af/ff/habitacion-sheraton-club.jpg|suite
+]
+comentarios:[
+Eduardo R|El hotel estaba en remodelación (una parte de enfrente) y no avisan desde la reserva, mal detalle de su parte. Toda la recepción llena de polvo, literal respirabas el polvo. Tache amigos !!! Les vendría bien ver cómo hoteles de otras cadenas te avisan al reservar, ya sea por internet o por teléfono que estará en remodelación !!!!
+toutou17|En general fue una muy buena experiencia, tuve la oportunidad de disfrutar de la cena romantica en la playa y estuvo excelente gracias a Ricardo y Alberto q fueron los meseros de la velada. en general todo 10 menos el servicio en la alberca el cual es muy lento
+danielleari|estuve en 2015, y me parecio fenomenal, es un hotel serio, no hay shows nocturnos, pero si el descanso es tu prioridad, sin duda lo recomiendo, la playa es grande, limpia y no hay piedras, las albercas estan bien cuidadas, y mejor aun el servicio de restaurante es ala carta todo, si regreso a este hotel.
+]
+
+nombre:     Hotel Yazmin
+direccion:  168 Basilio Badillo, Puerto Vallarta, México
+telefono:   +52-120-954-8524
+estrellas:  4
+precio:     $756
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-s/0b/95/b3/24/hotel-yazmin.jpg|pool
+https://media-cdn.tripadvisor.com/media/photo-s/0b/95/b3/1c/hotel-yazmin.jpg|pool
+https://media-cdn.tripadvisor.com/media/photo-s/00/18/ed/01/hotel-yazmin.jpg|terrace
+]
+comentarios:[
+Brizzet|El único detalle de mi estancia fue que la chapa del baño no servía. El hotel está en una excelente ubicación. A pesar de que las habitaciones no son muy grandes, están cómodas , lo indispensable para sólo llegar a dormir. El hotel es de precio accesible.
+Roberto O|Viajé con amigos y descansamos muy agusto en Hotel Yazmin, nos tocó la habitación el Cantarito en el 3er piso la cual es muy amplia, lo único que falta mas privacidad en el baño, fuera de eso nuestra estadía fue genial, tiene una terraza perfecta, el mini split y televisor funcionaban bien.
+Abraham Anastac... A|Es un hotel con una muy bonita decoración, lo que lo hace muy agradable. Su ubicación es buena y está cercano a una de las zonas antiguas y chulas de Vallarta. Ideal para las personas mochileras, que caminan mucho y que gustan de tener cafeterías y comercio local cercano.
+]
+END_HOTEL
+
+VUELO
+nombre:             Volaris
+num_de_vuelo:       927
+hora_salida:        7:07
+hora_llegada:       10:33
+lugar_de_salida:    MTY
+lugar_de_llegada:   PRV
+precio:             $5,438
+
+nombre:             Aeromexico
+num_de_vuelo:       2107
+hora_salida:        10:40
+hora_llegada:       13:55
+lugar_de_salida:    MTY
+lugar_de_llegada:   PRV
+precio:             $5,428
+END_VUELO
+
+RESTAURANTE
+nombre:         Vista Grill
+descripcion:    Mariscos
+lugar:          Calle Pulpito 377
+estrellas:      4.5
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-s/09/04/7f/e2/vista-grill.jpg|the-white-box
+https://media-cdn.tripadvisor.com/media/photo-s/0d/97/59/dd/pot-stickers.jpg|food
+]
+comentarios:[
+adrianadelcm|He estado ahí varias veces, pero esta última vez me pareció exageradamente caro, la carta muy pobre y no es posible que una botella de vino que en la europea cueste 120 pesos, te vendan una copa en 140 pesos Es una lástima porque el lugar y el servicio son excelentes, pero no me gusta sentirme robado.
+Anali_BeMe|Vista Grill es uno de los mejores restaurantes de Puerto Vallarta; además de su incomparable vista de toda la Bahía, sus platillos son deliciosos y el servicio es muy bueno. Lo recomiendo ampliamente para celebrar alguna ocasión especial ya que si lo mencionan en su reservación el staff les prepara una sorpresa :)
+]
+
+nombre:         Le Kliff
+descripcion:    Mariscos, Internacional, Opciones sin gluten
+lugar:          Carretera a Barra a Navidad Kilometro 17.5
+estrellas:      4.5
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-s/09/24/e0/1c/le-kliff.jpg|MB
+https://media-cdn.tripadvisor.com/media/photo-s/0d/9d/80/94/20161109-144628-largejpg.jpg|menu
+]
+comentarios:[
+KJimenezG|Excelente atencion, muy buena comida, instalaciones magníficas, muy recomendado.. Le falta un poco de musica en vivo, estaria genial.
+Martha Alicia M|El personal y los chefs muy amables y excelente conocimiento culinario y supremos bebidas y postres, mi favorito el pastel de volcán de chocolate, hermosa vista , nos puso en un estado de paz y amor gracias Efrén y Heriberto por su atención a todos gracias
+]
+
+nombre:         Café des Artistes
+descripcion:    Mexicana, Francesa, Internacional, Opciones sin gluten
+lugar:          Guadalupe Sanchez 740 
+estrellas:      4.5
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-s/02/b4/3a/97/cafe-des-artistes.jpg|restaurante
+https://media-cdn.tripadvisor.com/media/photo-s/0d/9f/a8/6e/photo0jpg.jpg|benazuza
+]
+comentarios:[
+Javier M|La verdad fui con mi familia, y se nos hizo muy caro, y no salimos satisfechos, la comida esta rica, pero sirven muy poco
+lorenzositges|Excelente comida , precioso jardin y muy buen servicio .. el ambiente y la musica super agradable . Velada de primera
+]
+END_RESTAURANTE
+
+ATRACCION
+nombre:         Tirolesa y parques de aventuras
+descripcion:    Disfrute de este fascinante trayecto en tirolina desde las alturas de las copas de los árboles y a través de puentes colgantes. También podrá descender en rappel y, para finalizar, refrescarse en el río Cuale, practicando tubing hacia las mulas que le llevarán de vuelta. También disfrutará de una degustación de tequila al final de su maravillosa aventura.
+lugar:          Puerto Vallarta
+estrellas:      4
+precio:         $1,916
+fotos:[
+https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/16824/SITours/excursi-n-de-aventura-en-puerto-vallarta-tirolina-rappel-y-degustaci-in-puerto-vallarta-223615.jpg|bote
+]
+comentarios:[
+]
+
+nombre:         El Malecon
+descripcion:    Disfrute de un tour en bicicleta privado a lo largo del famoso del paseo marítimo del El Malecón de Puerto Vallarta. Podrá admirar las vistas del océano y de la Bahía de Banderas. Es un gran tour para pasar un buen rato con la familia o amigos.
+lugar:          Puerto Vallarta
+estrellas:      5
+precio:         $668
+fotos:[
+https://media-cdn.tripadvisor.com/media/photo-s/02/5c/0c/f6/boardwalk.jpg|bote
+https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/23153/SITours/tour-privado-paseo-en-bicicleta-por-el-paseo-mar-timo-el-malec-n-in-puerto-vallarta-259915.jpg|bici
+]
+comentarios:[
+]
+END_ATRACCION
