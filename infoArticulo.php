@@ -27,6 +27,7 @@ switch ($_GET['type']) {
     <meta name="author" content="">
 
     <?php echo '<title>'.$_SESSION['ciudad']->getNombre().'</title>'?>
+    <link rel="icon" href="https://albertosolana.files.wordpress.com/2015/04/senderismo_408-63872.jpg">
 
     <!-- Bootstrap Core CSS -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
