@@ -32,7 +32,7 @@ switch ($_GET['type']) {
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <<style>
+    <style>
     body {
         padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
     }
@@ -271,7 +271,42 @@ switch ($_GET['type']) {
 
                 <?php
                 if($_GET['type']!='vuelo'){
-                echo'<div class="well">';
+                echo'<div class="well">
+                        <!-- Button to trigger modal --> 
+    <a href="#myModal" role="button" class="btn btn-primary" data-toggle="modal" style="margin-bottom: 15px">Deja tu comentario</a>
+    <!-- Modal -->
+    <div id="myModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+        <div class="modal-content">
+        <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title">Deja tu comentario</h4>
+        </div>
+        <div class="modal-body">
+          <form class="form-horizontal" name="commentform">
+    <div class="form-group">
+        <label class="control-label col-md-4" for="first_name">Nombre</label>
+        <div class="col-md-6">
+            <input type="text" class="form-control" id="first_name" name="first_name" placeholder="Autor"/>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-md-4" for="comment">Comentario o reseña</label>
+        <div class="col-md-6">
+            <textarea rows="6" class="form-control" id="comments" name="comments" placeholder="Cuentanos como fue tu visita?"></textarea>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-6">
+            <a href="#myModal" role="button" class="btn btn-primary pull-right" data-toggle="modal">Enviar</a>
+        </div>
+    </div>
+</form>
+        </div><!-- End of Modal body -->
+        </div><!-- End of Modal content -->
+        </div><!-- End of Modal dialog -->
+    </div><!-- End of Modal -->
+                    ';
                     $i=1;
                     foreach($objeto->getComentario() as $value){
                         echo '

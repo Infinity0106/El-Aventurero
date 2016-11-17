@@ -166,14 +166,14 @@
     </header>
 
     
-    <div id="searchForm" class="pagination-centered">
+    <div id="searchForm" class="pagination-centered" style="padding: 0 15px">
         <form id="formCiudad" class="form-horizontal" method="post" action="txtToClass.php">
             <div class="form-group">
             <label class="col-md-4 control-label" for="ciudad">Ciudad</label>
             <div class="col-md-4">
                 <input id="ciudad" name="ciudad" type="search" placeholder="ex. Cancún, Quintana Roo" class="form-control input-md">
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4" style="margin-top:5px;text-align:center">
                 <input type="submit" class="btn btn-primary">
             </div>
             </div>
